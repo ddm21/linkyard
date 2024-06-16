@@ -1,0 +1,16 @@
+- Heatmap - https://zyro.com/in/ai/heatmap
+- Behavioral Analytics tool - https://clarity.microsoft.com/ 
+- Color checker  - https://colorable.jxnblk.com/ 
+- Design Tool - https://www.fable.app/pricing/ 
+- Figma Component - https://www.figmacomponents.com/
+- UX Laws - https://lawsofux.com/
+- Ui design - https://www.uistore.design/
+- Random Avatars - https://boringavatars.com/
+- Flutter ui builderhttps://flutterviz.com/get-invite/
+- https://glyphs.fyi/
+- Figma Extension - https://magician.design/
+- https://diagram.com/
+- https://www.blenderkit.com/
+- Blender 3d library - https://www.a23d.co/
+- Convet to vector - https://vectorizer.ai/
+- Pattern Generator - https://dezmi.com/design-resources/pattern-generator/
