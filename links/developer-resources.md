@@ -38,6 +38,11 @@
 - Api for IP - https://ipinfo.io/
 - Ultimate Tool - https://it-tools.tech/
 - Mega Collection of API - https://www.convertapi.com/api
+- https://pdf-api.io/en
+- https://www.abyssale.com/
+- https://www.useanvil.com/products/pricing/
+- https://pspdfkit.com/api/pricing/
+- https://pdfmonkey.io/pricing
 
 [//]: <> (pip install pyinstaller)
 [//]: <> (pyinstaller --onefile --windowed your_script.py)
