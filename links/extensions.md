@@ -1,0 +1,15 @@
+- Dimensions - https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj
+- Muzli 2  - https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc
+- Site Palette - https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh
+- Whatfont - https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm
+- svg-grabber - https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg
+- GoFullPage - https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl
+- Mobile Inspect - https://play.google.com/store/apps/details?id=com.pixplicity.devcheck
+- Ultimate designer extension (visbug) - https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc
+- Image downloader - https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj?hl=en
+- Pesticide - https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi
+- Custom js on browserhttps://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk/related?hl=en
+- Color Contrast Checker - https://chrome.google.com/webstore/detail/colour-contrast-checker/nmmjeclfkgjdomacpcflgdkgpphpmnfe
+- Designers Tool - https://chrome.google.com/webstore/detail/designer-tools/jiiidpmjdakhbgkbdchmhmnfbdebfnhp/related
+- JSON Formatter - https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en
+- Mesurement - https://chrome.google.com/webstore/detail/measuremate/fcbffocoaopnenhgbchlchgndohggdei 
