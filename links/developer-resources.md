@@ -1,0 +1,43 @@
+- OSS Tools and code - https://awesomeopensource.com/
+- Send Pretty Code - https://carbon.now.sh/
+- Create waitlist (API) - https://getwaitlist.com/
+- Ecommerce custom coded - https://saleor.io/
+- Draggable js - https://shopify.github.io/draggable/
+- Analytics - https://mixpanel.com/
+- Self-hosted analytics tool https://umami.is/
+- Ready made css components - https://codemyui.com/
+- React libraries - https://reactscript.com/react/ & https://reactjsexample.com/
+- Vuejs Libraries - https://www.vuescript.com/
+- Animated grid React - https://dantrain.github.io/react-stonecutter/
+- Ultimate Dev Resource - https://appydev.co/
+- Motion API - https://motion.dev/
+- OSS Shopify Alternative - https://medusajs.com
+- Image LIbrary - https://imagemagick.org/ & http://www.graphicsmagick.org/
+- HTML Video Player - https://plyr.io/
+- OSS User Authentication - https://supertokens.com/
+- Online IDE - https://playcode.io/ & https://codedamn.com/playgrounds
+- Learn to Github - https://vscode.github.com/
+- CSS Reset - https://piccalil.li/blog/a-modern-css-reset/
+- Roadmap to AI learning - https://i.am.ai/roadmap/#note
+- API Testing and Monitoring - https://stepci.com/
+- Public API - https://publicapis.dev/
+- Web scraper - https://crawlee.dev/
+- Indian mutual funds  API - https://www.mfapi.in/
+- Stock Market API - https://www.alphavantage.co/
+- Minimal Backend DB - https://pocketbase.io/
+- Database viewer - https://sqlitebrowser.org/dl/
+- Share Variables in terminal - https://var.rocks/
+- CSS Grid Generator - https://cssgrid-generator.netlify.app/
+- Drag & Drop Library - https://shopify.github.io/draggable/ & https://dndkit.com/
+- Charts LIbrary - https://github.com/zingchart/awesome-charting
+- Install Docker Nginx and Portainer-CE - https://gitlab.com/bmcgonag/docker_installs
+- Visualize DB Schema's - https://dbschema.com/
+- Swagger API Alternative - https://apiary.io/plans
+- Quickly create APIs - https://loopback.io
+- Get all the SSL certificate - https://crt.sh/?q=YOURDOMAIN
+- Api for IP - https://ipinfo.io/
+- Ultimate Tool - https://it-tools.tech/
+- Mega Collection of API - https://www.convertapi.com/api
+
+[//]: <> (pip install pyinstaller)
+[//]: <> (pyinstaller --onefile --windowed your_script.py)
