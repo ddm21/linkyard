@@ -1,5 +1,5 @@
 - Dex Screener - https://dexscreener.com/ & https://poocoin.app/
-- https://cryptoprices.cc/ - Api for Google Sheet
+- Api for Google Sheet - https://cryptoprices.cc/
 - Gas fee for USDT - https://gasfeesnow.com/ - 
 - Insight for Crypto Token - https://token.unlocks.app/
 - News Aggregator - https://cryptopanic.com/
