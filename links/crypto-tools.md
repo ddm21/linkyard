@@ -22,7 +22,7 @@
 - https://faucet.triangleplatform.com/
 - https://learnweb3.io/faucets/sepolia/
 
-### Create Customo Token with these Websites
+### Create Custom Token with these Websites
 - https://www.welaunchit.org/
 - https://createmytoken.com/
 - https://coinfactory.app/memecoin-generator
