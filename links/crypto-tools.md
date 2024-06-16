@@ -4,7 +4,7 @@
 - Insight for Crypto Token - https://token.unlocks.app/
 - News Aggregator - https://cryptopanic.com/
 - Trading Data Aggregator - https://birdeye.so/ 
-- https://www.coinbureau.com/review/crypto-research-tools/
+- Research websote - https://www.coinbureau.com/review/crypto-research-tools/
 - Token Data - https://www.coingecko.com/
 - Defi Screener - https://defillama.com/
 - Overview of Token - https://cryptobubbles.net/
