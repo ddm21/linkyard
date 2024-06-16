@@ -13,7 +13,7 @@ Welcome to **Linkyard**, a repository where you'll find a curated collection of 
 - [Extensions](./links/extensions.md)
 - [Engineering Tools and Resource](./links/engineering.md)
 - [Backup and Recovery](./links/backup-and-recovery.md)
-- [Fonts](./fonts.md)
+- [Fonts](./links/fonts.md)
 - [Finance](./links/finance.md)
 - [Hosting and Storage Solutions](./links/hosting-storage.md)
 - [No-Code Tools](./links/NoCode_Tools.md)
