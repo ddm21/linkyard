@@ -1,0 +1,10 @@
+- Generate Randome Name - https://www.behindthename.com/random/
+- Check Seamless of Image - https://www.pycheung.com/checker/
+- Get Image Metadata - https://www.metadata2go.com/view-metadata
+- Image Cropping - https://www.birme.net/
+- Stable Diffusion Prompt Builder - https://promptomania.com/stable-diffusion-prompt-builder/
+- Generating Logo - https://ideogram.ai/
+- Reduce TOken Size in Prompts - https://medium.com/@parastheaikid/reducing-gpt-4-api-cost-by-reducing-prompt-decompression-bb4f117491d2
+- Automate Customer Chat - https://www.aidbase.ai/
+- Build AI Apps - https://theforgeai.com/
+- Ultimate Ai Tools Library - https://topai.tools/
