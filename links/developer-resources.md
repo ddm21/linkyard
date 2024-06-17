@@ -43,6 +43,7 @@
 - https://www.useanvil.com/products/pricing/
 - https://pspdfkit.com/api/pricing/
 - https://pdfmonkey.io/pricing
+- Create image using api - https://frameshift.works
 
 [//]: <> (pip install pyinstaller)
 [//]: <> (pyinstaller --onefile --windowed your_script.py)
