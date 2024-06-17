@@ -1,4 +1,4 @@
-### Yotube Videos
+### Youtube Videos
 - https://www.youtube.com/watch?v=Z3SYDTMP3ME&list=WL&index=3
 - https://www.youtube.com/watch?v=cSky-gP0Upw&list=WL&index=6
 - https://www.youtube.com/watch?v=FDEpdNdFglI&list=WL&index=6
