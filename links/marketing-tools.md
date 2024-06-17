@@ -1,0 +1,20 @@
+- https://mailstudio.app/
+- https://saasemailtemplates.io/templates
+- https://www.mailersend.com/pricing
+- https://www.mailerlite.com/pricing
+- https://www.mailjet.com/pricing/
+- https://www.sendinblue.com/pricing/
+
+- https://keywordseverywhere.com/answerthepublic.html
+- AnswerThePublic
+- Google Trends - https://trends.google.com/trends/
+- Moz Keyword Explorer - https://moz.com/explorer
+- SEMrush - https://www.semrush.com/
+- Ubersuggest - https://neilpatel.com/ubersuggest/
+- WordStream - https://www.wordstream.com/
+- Get insight of company - https://www.crunchbase.com/
+- https://www.google.co.in/alerts
+- https://www.seoreviewtools.com/
+- https://www.semrush.com/features/on-page-seo-checker/
+- https://tools.pingdom.com/
+- Email template example from brands - https://milled.com/
