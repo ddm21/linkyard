@@ -9,6 +9,13 @@
 - https://youtu.be/74zFuxGi0CY
 - https://www.youtube.com/watch?v=B8i49C8fC3E&list=WL&
 - https://youtu.be/amiIcyt-J2A
+- https://youtube.com/playlist?list=PLvFCWsGNF7q6QzDOU9ITqG2AdzF_mL8ng
+- https://youtube.com/playlist?list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo
+- https://youtu.be/565H-XSt7dU?feature=shared
+- https://youtu.be/v797Q3Q-gUA?feature=shared
+- https://youtu.be/RI_dWnaUuw4?feature=shared
+- https://youtu.be/xksCvfKIT8A?feature=shared
+
 
 ### Path to AWS Certified Solution Archite
 - https://towardsaws.com/my-path-to-aws-certified-solution-archite-c64df95b6bfa
@@ -30,6 +37,19 @@
 - https://www.youtube.com/watch?v=MipjLaTp5nA
 ### AWS Step Functions Crash Course
 - https://www.youtube.com/watch?v=jXxKRd_9nC0&list=WL&index=14
+
+### Learn Database
+- https://sqlbolt.com/
+### Learn Javascript
+- https://javascript.info/
+
+### Practise Exam
+- https://aws.amazon.com/certification/certified-solutions-architect-associate/
+- https://digitalcloud.training/category/aws-cheat-sheets/aws-solutions-architect-associate/
+- https://youtu.be/2Lk8k8RSEN8
+- https://youtu.be/ibNSwbJreH8
+- https://youtu.be/sCBTeMd0Jj4
+- https://youtu.be/JubPv_UkBDg
 
 
 - AWS credit - https://aws.amazon.com/free/offers/
