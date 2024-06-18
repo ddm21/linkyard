@@ -59,27 +59,25 @@
 - https://www.pabbly.com/connect/
 - https://www.make.com/en
 - https://zapier.com/
-
-
 - find techstack - https://www.sideprojectstack.com/
 
-**Install Docker, Docker Compose, Nginx**
+### Install Docker, Docker Compose, Nginx
 ```
 wget https://gitlab.com/bmcgonag/docker_installs/-/raw/main/install_docker_nproxyman.sh
 chmod +x install_docker_nproxyman.sh
 ./install_docker_nproxyman.sh
 ```
 
-Copy Local files to Server via Putty
+### Copy Local files to Server via Putty
 ```
 pscp -i ssh-private.ppk -P 22 <FILE-TO-COPY> USERNAME@SERVER_IP:<PATH-ONSERVER-TO-COPY>
 ```
 
-Docker like VM for Windows - https://multipass.run/
+### Docker like VM for Windows - https://multipass.run/
 
-command - `multipass launch <image alias> --name homelab --memory 4G --disk 40G --cpus 4 --network bridged --mount <local-path>:<instance-path>`
+`multipass launch <image alias> --name homelab --memory 4G --disk 40G --cpus 4 --network bridged --mount <local-path>:<instance-path>`
 
-easy install script:
+### Easy install script for Frappe:
 ```
 wget https://raw.githubusercontent.com/frappe/bench/develop/easy-install.py
 $ python3 easy-install.py --prod --sitename korex.cf --email korexdotcf@gmail.com
