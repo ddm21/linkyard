@@ -19,7 +19,7 @@ Welcome to **Linkyard**, a repository where you'll find a curated collection of 
 - [No-Code Tools](./links/nocode_tools.md)
 - [Marketing Tools](./links/marketing-tools.md)
 - [Mockups](./links/mockups.md)
-- [NoCode nad Selfhost OSS](./links/nocode-oss.md)
+- [NoCode and Selfhost OSS](./links/nocode-oss.md)
 - [Ultimate Resource](./links/ultimate-resource.md)
 - [Tailwind](./links/tailwind/md)
 - [Wordpress](./links/wordpress.md)
