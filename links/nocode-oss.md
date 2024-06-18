@@ -6,34 +6,34 @@
 - NoCodeTools - https://www.spacebarcounter.net/no-code-tools
 - Insight on Nocode Lowcode - https://ossinsight.io/collections/low-code-development-tool/
 
-- Create AI Chatbot - ttps://www.typebot.io/
-- AI Automation Chatbot - https://vectorshift.ai/
-- Retool - https://retool.com/
-- Pabbly connect - https://www.pabbly.com/connect/
-- Glide app - https://www.glideapps.com/
-- Appsmith - https://www.appsmith.com/
-- Baserow - https://baserow.io/
-- Pipedream - https://pipedream.com/
-- Appgyver - https://www.appgyver.com/
-- Strapi CMS - https://strapi.io/
-- Advance Database - https://dataland.io/
-- Nocode Web3 Automation - https://graphlinq.io/
-- Serverless Database - https://xata.io/
-- NoCode AI Assistants - https://www.voiceflow.com/
-- Pinecone - https://www.pinecone.io/
-- LLM  Apps Builder - https://flowiseai.com/
-- Xano - https://www.xano.com/connect/
-- supabase - https://supabase.com/
-- Flutterviz - https://flutterviz.com/
-- Flutterflow - https://flutterflow.io/
-- FluxBuilder - https://www.fluxbuilder.com/
-- Bubble - https://bubble.io/
-- OSS Helpdesk - https://docs.peppermint.sh/ & https://www.uvdesk.com/
-- Selfhost Email server - https://mailinabox.email/
-- pihole portainer templatehttps://pi-hosted.com/
+- Create AI Chatbot - ttps://www.typebot.io
+- AI Automation Chatbot - https://vectorshift.ai
+- Retool - https://retool.com
+- Pabbly connect - https://www.pabbly.com/connect
+- Glide app - https://www.glideapps.com
+- Appsmith - https://www.appsmith.com
+- Baserow - https://baserow.io
+- Pipedream - https://pipedream.com
+- Appgyver - https://www.appgyver.com
+- Strapi CMS - https://strapi.io
+- Advance Database - https://dataland.io
+- Nocode Web3 Automation - https://graphlinq.io
+- Serverless Database - https://xata.io
+- NoCode AI Assistants - https://www.voiceflow.com
+- Pinecone - https://www.pinecone.io
+- LLM  Apps Builder - https://flowiseai.com
+- Xano - https://www.xano.com/connect
+- supabase - https://supabase.com
+- Flutterviz - https://flutterviz.com
+- Flutterflow - https://flutterflow.io
+- FluxBuilder - https://www.fluxbuilder.com
+- Bubble - https://bubble.io
+- OSS Helpdesk - https://docs.peppermint.sh & https://www.uvdesk.com
+- Selfhost Email server - https://mailinabox.email
+- pihole portainer templatehttps://pi-hosted.com
 - https://signup.buildbox.com/ nocode game builder
-- Weblow alternative - https://rnbw.company/
-- Webflow Custom Javscript editorhttps://slater.app/
+- Weblow alternative - https://rnbw.company
+- Webflow Custom Javscript editorhttps://slater.app
 
 ### Free Database Managers:
 - https://dev.mysql.com/downloads/workbench/
