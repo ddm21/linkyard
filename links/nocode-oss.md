@@ -35,12 +35,12 @@
 - Weblow alternative - https://rnbw.company/
 - Webflow Custom Javscript editorhttps://slater.app/
 
-### Free Database Managers
+### Free Database Managers:
 - https://dev.mysql.com/downloads/workbench/
 - https://learn.microsoft.com/en-us/sql/ssms/
 - https://github.com/beekeeper-studio/beekeeper-studio
 
-### Backup Solutions
+### Backup Solutions:
 - https://www.duplicati.com/
 - https://www.urbackup.org
 
