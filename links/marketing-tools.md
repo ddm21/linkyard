@@ -4,9 +4,7 @@
 - https://www.mailerlite.com/pricing
 - https://www.mailjet.com/pricing/
 - https://www.sendinblue.com/pricing/
-
-- https://keywordseverywhere.com/answerthepublic.html
-- AnswerThePublic
+- AnswerThePublic - https://keywordseverywhere.com/answerthepublic.html
 - Google Trends - https://trends.google.com/trends/
 - Moz Keyword Explorer - https://moz.com/explorer
 - SEMrush - https://www.semrush.com/
