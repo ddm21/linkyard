@@ -16,7 +16,6 @@ Welcome to **Linkyard**, a repository where you'll find a curated collection of 
 - [Fonts](./links/fonts.md)
 - [Finance](./links/finance.md)
 - [Hosting and Storage Solutions](./links/hosting-storage.md)
-- [No-Code Tools](./links/nocode_tools.md)
 - [Marketing Tools](./links/marketing-tools.md)
 - [Mockups](./links/mockups.md)
 - [NoCode and Selfhost OSS](./links/nocode-oss.md)
