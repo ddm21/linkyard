@@ -1,4 +1,4 @@
-- https://mailstudio.app/
+- Marketing Email design tools - https://mailstudio.app/
 - https://saasemailtemplates.io/templates
 - https://www.mailersend.com/pricing
 - https://www.mailerlite.com/pricing
