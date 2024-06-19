@@ -1,0 +1,9 @@
+- https://onionplay.co/
+- https://flixhq.net/
+- https://fmoviesz.to/home
+- https://flixwave.to/home
+- https://fmovies.llc/home 
+- https://filepursuit.com/
+- https://www.justwatch.com/us/provider/amazon-prime-video
+- https://anix.to/
+- https://www.crunchyroll.com/videos/popular
