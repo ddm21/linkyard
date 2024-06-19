@@ -6,15 +6,15 @@ Welcome to **Linkyard**, a repository where you'll find a curated collection of 
 
 - [AI Tools](./links/ai-tools.md)
 - [Books](./links/books.md)
+- [Backup and Recovery](./links/backup-and-recovery.md)
 - [Crypto Tools](./links/crypto-tools.md)
 - [Design Systems](./links/design-system.md)
 - [Designer Resources](./links/designer-resources.md)
 - [Developer Resources](./links/developer-resources.md)
 - [Extensions](./links/extensions.md)
 - [Engineering Tools and Resource](./links/engineering.md)
-- [Backup and Recovery](./links/backup-and-recovery.md)
+- [Finance And Health](./links/finance-health.md)
 - [Fonts](./links/fonts.md)
-- [Finance](./links/finance.md)
 - [Hosting and Storage Solutions](./links/hosting-storage.md)
 - [Marketing Tools](./links/marketing-tools.md)
 - [Mockups](./links/mockups.md)
@@ -26,7 +26,7 @@ Welcome to **Linkyard**, a repository where you'll find a curated collection of 
 - [Stable Diffusion](./links/stable-diffusion.md)
 - [Best VPN](./links/vpn.md)
 - [Aws Learnings](./links/aws-learnings.md)
-- [Finance And Health](./links/finance-health.md)
+
 - [Others](./links/others.md)
 
 
