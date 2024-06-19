@@ -49,7 +49,8 @@
 - https://www.networknotepad.com/index.shtml
 - Cloud Networks Diagram - https://isoflow.io/
 - Network Tools - https://dnsdumpster.com/
-- SSL generator for Windows - https://www.win-acme.com/ 
-
+- SSL generator for Windows - https://www.win-acme.com/
+- FUll stack Web Scraping API - https://apify.com/
+- 
 [//]: <> (pip install pyinstaller)
 [//]: <> (pyinstaller --onefile --windowed your_script.py)
