@@ -1,6 +1,6 @@
 - https://finshots.in/
 - https://forum.valuepickr.com/
-- https://thefundoo.com/ - tools
+- https://thefundoo.com/
 - https://finviz.com/screener.ashx
 - Stocks indicatorhttps://www.investing.com/
 - Screener - https://chartink.com/
