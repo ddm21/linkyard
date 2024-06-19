@@ -10,6 +10,19 @@
 - Read Fundamentalshttps://marketsmithindia.com/
 - NSE Screener - https://www.nseindia.com/market-data/live-equity-market
 - Insurance help - https://www.cioins.co.in/
+- Tax fillinghttps://www.taxbuddy.com/
+- Open Source SAP Alternative - https://erpnext.com/
+- Free Accounting  - https://frappebooks.com/
+- Opensource Invoicing app - https://craterapp.com/
+
+### Learnings
+- https://einvoice1.gst.gov.in/Documents/PPT_on_eInvoice_system.pdf
+- https://www.mastersindia.co/blog/signed-qr-code-e-invoicing-system/
+- https://cleartax.in/s/gst-e-invoice-qr-code-generation
+- https://www.mastersindia.co/blog/signed-qr-code-e-invoicing-system/
+
+- SAC for Consulting - https://cleartax.in/s/gst-hsn-lookup?consulting
+
 
 - What Medical Tests are Required for [Term Insurance](https://www.policybazaar.com/term-insurance/articles/list-of-medical-tests-required-for-term-insurance/)?
 - What Medical Tests are Required for [Health Insurance](https://www.hdfcergo.com/blogs/health-insurance/pre-medical-tests-in-health-insurance)?
