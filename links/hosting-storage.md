@@ -11,6 +11,7 @@
 - https://railway.app/
 - https://thepowerhost.in/
 - https://deno.com/deploy/pricing
+- https://codesphere.com/pricing
 
 ### PaaS for Hosting Custom apps
 - https://www.porter.run/
