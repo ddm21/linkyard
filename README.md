@@ -26,6 +26,7 @@ Welcome to **Linkyard**, a repository where you'll find a curated collection of 
 - [Stable Diffusion](./links/stable-diffusion.md)
 - [Best VPN](./links/vpn.md)
 - [Aws Learnings](./links/aws-learnings.md)
+- [Finance And Health](./links/finance-health.md)
 
 
 Explore each category to discover tools that will enhance your productivity and creativity. Contributions are welcome!
