@@ -27,6 +27,7 @@ Welcome to **Linkyard**, a repository where you'll find a curated collection of 
 - [Best VPN](./links/vpn.md)
 - [Aws Learnings](./links/aws-learnings.md)
 - [Finance And Health](./links/finance-health.md)
+- [Others](./links/others.md)
 
 
 Explore each category to discover tools that will enhance your productivity and creativity. Contributions are welcome!
