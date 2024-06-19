@@ -35,6 +35,8 @@
 - https://signup.buildbox.com/ nocode game builder
 - Weblow alternative - https://rnbw.company
 - Webflow Custom Javscript editorhttps://slater.app
+- Motion Detection for IP Camerahttps://zoneminder.com/downloads/
+- Open Source NVR Softwarehttps://www.ispyconnect.com/
 
 ### Free Database Managers:
 - https://dev.mysql.com/downloads/workbench/
