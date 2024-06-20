@@ -32,7 +32,7 @@
 - OSS Helpdesk - https://docs.peppermint.sh & https://www.uvdesk.com
 - Selfhost Email server - https://mailinabox.email
 - pihole portainer templatehttps://pi-hosted.com
-- https://signup.buildbox.com/ nocode game builder
+- nocode game builder - https://signup.buildbox.com/
 - Weblow alternative - https://rnbw.company
 - Webflow Custom Javscript editor - https://slater.app
 - Motion Detection for IP Camerahttps://zoneminder.com/downloads/
