@@ -34,7 +34,7 @@
 - pihole portainer templatehttps://pi-hosted.com
 - https://signup.buildbox.com/ nocode game builder
 - Weblow alternative - https://rnbw.company
-- Webflow Custom Javscript editorhttps://slater.app
+- Webflow Custom Javscript editor - https://slater.app
 - Motion Detection for IP Camerahttps://zoneminder.com/downloads/
 - Open Source NVR Softwarehttps://www.ispyconnect.com/
 
