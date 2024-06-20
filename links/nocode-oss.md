@@ -31,7 +31,7 @@
 - Bubble - https://bubble.io
 - OSS Helpdesk - https://docs.peppermint.sh & https://www.uvdesk.com
 - Selfhost Email server - https://mailinabox.email
-- pihole portainer templatehttps://pi-hosted.com
+- pihole portainer template - https://pi-hosted.com
 - nocode game builder - https://signup.buildbox.com/
 - Weblow alternative - https://rnbw.company
 - Webflow Custom Javscript editor - https://slater.app
