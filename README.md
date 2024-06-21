@@ -11,6 +11,7 @@ Welcome to **Linkyard**, a repository where you'll find a curated collection of 
 - [Design Systems](./links/design-system.md)
 - [Designer Resources](./links/designer-resources.md)
 - [Developer Resources](./links/developer-resources.md)
+- [Diffusion Prompts Helper](./links/prompt-helper.md)
 - [Extensions](./links/extensions.md)
 - [Engineering Tools and Resource](./links/engineering.md)
 - [Finance And Health](./links/finance-health.md)
