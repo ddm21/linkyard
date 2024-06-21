@@ -51,6 +51,8 @@
 - Network Tools - https://dnsdumpster.com/
 - SSL generator for Windows - https://www.win-acme.com/
 - FUll stack Web Scraping API - https://apify.com/
+- Headless page builder - https://prismic.io/
+- Headless Content builder - https://www.contentful.com/ & https://www.abyssale.com/
 - 
 [//]: <> (pip install pyinstaller)
 [//]: <> (pyinstaller --onefile --windowed your_script.py)
