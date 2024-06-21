@@ -5,6 +5,9 @@
 - https://www.opensourcealternative.to/
 - NoCodeTools - https://www.spacebarcounter.net/no-code-tools
 - Insight on Nocode Lowcode - https://ossinsight.io/collections/low-code-development-tool/
+- Pdf with API - https://doczilla.app/pricing
+- Pdf with API - https://doppio.sh/
+- Pdf with API - https://pdfendpoint.com/
 
 ### OSS and Tools
 - Create AI Chatbot - ttps://www.typebot.io
