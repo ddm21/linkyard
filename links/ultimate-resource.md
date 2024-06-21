@@ -17,8 +17,8 @@
 - https://www.designresourc.es/
 - https://resourcesfordesigner.com/
 - https://setproduct.com/freebies
-- Free to use Vectorshttps://publicdomainvectors.org/
-- Textureshttps://texturefabrik.com
+- Free to use Vectors - https://publicdomainvectors.org/
+- Textures - https://texturefabrik.com
 
 ### Resource for Developers
 - https://free-for.dev/
