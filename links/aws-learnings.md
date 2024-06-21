@@ -15,6 +15,7 @@
 - https://youtu.be/v797Q3Q-gUA?feature=shared
 - https://youtu.be/RI_dWnaUuw4?feature=shared
 - https://youtu.be/xksCvfKIT8A?feature=shared
+- https://www.youtube.com/watch?v=viFtq1RUh1c&list=PLeXyNq8uiaAYtXbeeLKwGdyHOn6JXE4He
 
 
 ### Path to AWS Certified Solution Archite
