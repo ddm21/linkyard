@@ -20,7 +20,7 @@ Welcome to **Linkyard**, a repository where you'll find a curated collection of 
 - [Mockups](./links/mockups.md)
 - [NoCode and Selfhost OSS](./links/nocode-oss.md)
 - [Ultimate Resource](./links/ultimate-resource.md)
-- [Inspiration sites](./links/inspirations.md)
+- [Inspiration sites](./links/inspiration.md)
 - [Tailwind](./links/tailwind.md)
 - [Wordpress](./links/wordpress.md)
 - [Templates](./links/templates.md)
