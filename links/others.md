@@ -11,8 +11,8 @@
 - Flowchart - https://flowchart.fun/
 - All tols of Linux - https://www.linuxlinks.com/
 - Disk info - https://windirstat.net/download.html
-- 2D rig and animation softwarhttps://esotericsoftware.com/spine-purchase
-- Public Researchhttps://answerthepublic.com/
+- 2D rig and animation softwar - https://esotericsoftware.com/spine-purchase
+- Public Researc - hhttps://answerthepublic.com/
 - Domain Category finder - https://fortiguard.com/webfilter
 - Windows Macrohttps://tinytask.net/
 
