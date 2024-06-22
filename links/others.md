@@ -13,7 +13,7 @@
 - Disk info - https://windirstat.net/download.html
 - 2D rig and animation softwarhttps://esotericsoftware.com/spine-purchase
 - Public Researchhttps://answerthepublic.com/
-- Domain Category finderhttps://www.fortiguard.com/webfilter
+- Domain Category finder - https://fortiguard.com/webfilter
 - Windows Macrohttps://tinytask.net/
 
 ### Crack Sites
