@@ -8,6 +8,7 @@
 - Pdf with API - https://doczilla.app/pricing
 - Pdf with API - https://doppio.sh/
 - Pdf with API - https://pdfendpoint.com/
+- Tally forms (Alternative of Typeform) - https://tally.so/pricing
 
 ### OSS and Tools
 - Create AI Chatbot - ttps://www.typebot.io
