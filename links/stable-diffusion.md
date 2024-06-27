@@ -18,6 +18,7 @@
 - https://lexica.art/
 - https://openart.ai/discovery
 - Create custom poses - https://app.posemy.art/
+- https://artificin.com/prompt-builder
 
 ### Public Platform for SD
 - https://stablehorde.net/
