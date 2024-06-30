@@ -11,6 +11,7 @@
 - Tally forms (Alternative of Typeform) - https://tally.so/pricing
 - Generate Invoice via API Free - https://invoice-generator.com/
 - Generate Invoice via API Freemiun - https://www.refrens.com/
+- Selfhost Invoice Generator - https://invoicingapi.com/selfhosting
 
 ### OSS and Tools
 - Create AI Chatbot - ttps://www.typebot.io
