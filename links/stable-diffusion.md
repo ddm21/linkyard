@@ -3,8 +3,9 @@
 - Best for Pro ( Complicated ) - https://github.com/AUTOMATIC1111/stable-diffusion-webui
 - Managed hosting for SD Gui - https://rundiffusion.com/
 - Simple Gui - https://github.com/lllyasviel/Fooocus
-- Affordable GPU Cloudhttps://salad.com/
+- Affordable GPU Cloud - https://salad.com/
 - All in one AI Tools installer - https://pinokio.computer/
+- Tryout LLMs - https://chat.tune.app/
 
 ### Get Models and Prompt
 - https://prompthero.com/
