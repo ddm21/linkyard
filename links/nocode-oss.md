@@ -9,6 +9,7 @@
 - Pdf with API - https://doppio.sh/
 - Pdf with API - https://pdfendpoint.com/
 - Tally forms (Alternative of Typeform) - https://tally.so/pricing
+- Generate Invoice via API - https://invoice-generator.com/
 
 ### OSS and Tools
 - Create AI Chatbot - ttps://www.typebot.io
