@@ -8,7 +8,9 @@
 - Pdf with API - https://doczilla.app/pricing
 - Pdf with API - https://doppio.sh/
 - Pdf with API - https://pdfendpoint.com/
-- Tally forms (Alternative of Typeform) - https://tally.so/pricing
+- Tally forms (Alternative of Typeform) - https://tally.so/
+- Fillout forms (Alternative of Typeform) - https://www.fillout.com/
+- Formbricks forms (Alternative of Typeform) - https://formbricks.com/
 - Generate Invoice via API Free - https://invoice-generator.com/
 - Generate Invoice via API Freemiun - https://www.refrens.com/
 - Selfhost Invoice Generator - https://invoicingapi.com/selfhosting
@@ -54,7 +56,6 @@
 ### Backup Solutions:
 - https://www.duplicati.com/
 - https://www.urbackup.org
-
 
 ### Self host simple cpanel:
 - https://froxlor.org/get-started 
