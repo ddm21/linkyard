@@ -15,6 +15,7 @@
 - Generate Invoice via API Freemiun - https://www.refrens.com/
 - Selfhost Invoice Generator - https://invoicingapi.com/selfhosting
 - Get Managed Redis for Nocode - https://upstash.com/
+- Regex Generator - https://regex-generator.olafneumann.org/
 
 ### OSS and Tools
 - Create AI Chatbot - ttps://www.typebot.io
