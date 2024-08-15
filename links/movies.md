@@ -7,3 +7,5 @@
 - https://www.justwatch.com/us/provider/amazon-prime-video
 - https://anix.to/
 - https://www.crunchyroll.com/videos/popular
+- https://hurawatch2.to/
+- https://watchseries.bar/
