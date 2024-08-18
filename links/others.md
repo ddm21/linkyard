@@ -15,6 +15,7 @@
 - Public Researc - https://answerthepublic.com/
 - Domain Category finder - https://fortiguard.com/webfilter
 - Windows Macro - https://tinytask.net/
+- Canva Alternative with AI - https://www.creatopy.com/
 
 ### Crack Sites
 - https://filecr.com/
