@@ -1,4 +1,6 @@
-- Marketing Email design tools - https://mailstudio.app/
+- Email design tools - https://mailstudio.app/
+- Email Design Tool - https://beefree.io/
+- Email Design Tool - https://stripo.email/
 - https://saasemailtemplates.io/templates
 - https://www.mailersend.com/pricing
 - https://www.mailerlite.com/pricing
