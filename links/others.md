@@ -16,6 +16,7 @@
 - Domain Category finder - https://fortiguard.com/webfilter
 - Windows Macro - https://tinytask.net/
 - Canva Alternative with AI - https://www.creatopy.com/
+- Audio Pen Sumarise what you talk - https://audiopen.ai/
 
 ### Crack Sites
 - https://filecr.com/
