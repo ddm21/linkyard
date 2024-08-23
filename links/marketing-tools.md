@@ -17,3 +17,5 @@
 - https://tools.pingdom.com/
 - Email template example from brands - https://milled.com/
 - https://www.fireberry.com/
+- Email Marketing - https://sendpulse.com/
+- Email Marketing - https://moosend.com/
