@@ -20,3 +20,5 @@
 - Email template example from brands - https://milled.com/
 - https://www.fireberry.com/
 - Email Marketing - https://sendpulse.com/
+- Cold Email - https://www.mailforge.ai/
+- 
