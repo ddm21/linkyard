@@ -24,6 +24,7 @@
 - https://cloud.google.com/application/web3/faucet/ethereum/sepolia
 - https://www.sepoliafaucet.io/
 - https://www.infura.io/faucet/sepolia
+- https://faucet.chainstack.com/sepolia-testnet-faucet
 
 ### Create Custom Token with these Websites
 - https://www.welaunchit.org/
