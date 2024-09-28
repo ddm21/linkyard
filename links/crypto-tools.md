@@ -25,6 +25,7 @@
 - https://www.sepoliafaucet.io/
 - https://www.infura.io/faucet/sepolia
 - https://faucet.chainstack.com/sepolia-testnet-faucet
+- https://faucets.chain.link/
 
 ### Create Custom Token with these Websites
 - https://www.welaunchit.org/
