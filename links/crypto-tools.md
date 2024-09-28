@@ -21,6 +21,9 @@
 - https://app.aave.com/
 - https://faucet.triangleplatform.com/
 - https://learnweb3.io/faucets/sepolia/
+- https://cloud.google.com/application/web3/faucet/ethereum/sepolia
+- https://www.sepoliafaucet.io/
+- https://www.infura.io/faucet/sepolia
 
 ### Create Custom Token with these Websites
 - https://www.welaunchit.org/
@@ -51,7 +54,7 @@ Pausing support: No
 Possibility of unlimited supply: No
 ```
 
-```js
+```
 Network name: Amoy
 New RPC URL: https://rpc-amoy.polygon.technology/
 Chain ID: 80002
