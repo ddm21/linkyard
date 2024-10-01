@@ -11,12 +11,12 @@
 - Ultimate PLayground for LLM - https://chat.tune.app/
 - Create Website and Template with AI - https://www.relume.io/ & https://uizard.io/
 - https://www.aiforwork.co/
-- https://eightify.app/
-- https://writesonic.com/
-- https://tldv.io/
-- https://www.opus.pro/
+- Summarize YouTube videos - https://eightify.app/
+- AI Contetn Writer - https://writesonic.com/
+- AI Meeting Notetaker - https://tldv.io/
+- AI powerd VIdeo Repurposing - https://www.opus.pro/
 - https://www.decktopus.com/
-- https://stockimg.ai/
+- AI Stock Image Generator - https://stockimg.ai/
 - https://docus.ai/
-- https://gptbot.io/
-- https://aider.chat/docs/install.html
+- Ultimate Ai Tools Library - https://gptbot.io/
+- AI Coder - https://aider.chat/docs/install.html
