@@ -10,3 +10,12 @@
 - Ultimate Ai Tools Library - https://topai.tools/
 - Ultimate PLayground for LLM - https://chat.tune.app/
 - Create Website and Template with AI - https://www.relume.io/ & https://uizard.io/
+- https://www.aiforwork.co/
+- https://eightify.app/
+- https://writesonic.com/
+- https://tldv.io/
+- https://www.opus.pro/
+- https://www.decktopus.com/
+- https://stockimg.ai/
+- https://docus.ai/
+- https://gptbot.io/
