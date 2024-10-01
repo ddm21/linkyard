@@ -10,7 +10,7 @@
 - Ultimate Ai Tools Library - https://topai.tools/
 - Ultimate PLayground for LLM - https://chat.tune.app/
 - Create Website and Template with AI - https://www.relume.io/ & https://uizard.io/
-- https://www.aiforwork.co/
+- Prompts Helper - https://www.aiforwork.co/
 - Summarize YouTube videos - https://eightify.app/
 - AI Contetn Writer - https://writesonic.com/
 - AI Meeting Notetaker - https://tldv.io/
