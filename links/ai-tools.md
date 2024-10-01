@@ -19,3 +19,4 @@
 - https://stockimg.ai/
 - https://docus.ai/
 - https://gptbot.io/
+- https://aider.chat/docs/install.html
