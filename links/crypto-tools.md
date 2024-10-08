@@ -13,6 +13,7 @@
 - Crypto Taxation guide - https://cleartax.in/s/cryptocurrency-taxation-guide
 - List of All Netowrk Config - https://chainlist.org/
 - Code for DIffrenct Token Contract - https://www.cookbook.dev/
+- Find RPC - https://rpc.info/
 
 ### List of Faucet websites
 - https://www.l2faucet.com/
