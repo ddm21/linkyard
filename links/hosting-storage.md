@@ -12,6 +12,7 @@
 - https://thepowerhost.in/
 - https://deno.com/deploy/pricing
 - https://codesphere.com/pricing
+- https://utho.com/
 
 ### PaaS for Hosting Custom apps
 - https://www.porter.run/
