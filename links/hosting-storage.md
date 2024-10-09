@@ -27,6 +27,7 @@
 ### Free / Cheap Storage
 - https://www.backblaze.com/
 - https://www.storj.io/pricing
+- https://wasabi.com/
 
 **Clear Memory and Cache in Linux**
 ```
