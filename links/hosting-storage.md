@@ -13,6 +13,7 @@
 - https://deno.com/deploy/pricing
 - https://codesphere.com/pricing
 - https://utho.com/
+- https://upstash.com/
 
 ### PaaS for Hosting Custom apps
 - https://www.porter.run/
@@ -23,6 +24,7 @@
 - https://coolify.io/
 - https://render.com/
 - https://www.cloudron.io/
+- https://vercel.com/
 
 ### Free / Cheap Storage
 - https://www.backblaze.com/
