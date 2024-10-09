@@ -20,3 +20,4 @@
 - https://docus.ai/
 - Ultimate Ai Tools Library - https://gptbot.io/
 - AI Coder - https://aider.chat/docs/install.html
+- All in one Workforce - https://sintra.ai/
