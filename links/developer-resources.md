@@ -55,7 +55,7 @@
 - Headless page builder - https://prismic.io/
 - Headless Content builder - https://www.contentful.com/ & https://www.abyssale.com/
 - noCode WebGL - https://www.unicorn.studio/ and https://rive.app/
-- 
+- Managed Postgress - https://neon.tech/
 
 
 [//]: <> (pip install pyinstaller)
