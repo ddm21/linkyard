@@ -8,6 +8,8 @@
 - Pdf with API - https://doczilla.app/pricing
 - Pdf with API - https://doppio.sh/
 - Pdf with API - https://pdfendpoint.com/
+- Images and PDF with API - https://templated.io/
+- DYnamic Images with API - https://customerscanvas.com/
 - Tally forms (Alternative of Typeform) - https://tally.so/
 - Fillout forms (Alternative of Typeform) - https://www.fillout.com/
 - Formbricks forms (Alternative of Typeform) - https://formbricks.com/
