@@ -5,11 +5,6 @@
 - https://www.opensourcealternative.to/
 - NoCodeTools - https://www.spacebarcounter.net/no-code-tools
 - Insight on Nocode Lowcode - https://ossinsight.io/collections/low-code-development-tool/
-- Pdf with API - https://doczilla.app/pricing
-- Pdf with API - https://doppio.sh/
-- Pdf with API - https://pdfendpoint.com/
-- Images and PDF with API - https://templated.io/
-- DYnamic Images with API - https://customerscanvas.com/
 - Tally forms (Alternative of Typeform) - https://tally.so/
 - Fillout forms (Alternative of Typeform) - https://www.fillout.com/
 - Formbricks forms (Alternative of Typeform) - https://formbricks.com/
@@ -18,6 +13,20 @@
 - Selfhost Invoice Generator - https://invoicingapi.com/selfhosting
 - Get Managed Redis for Nocode - https://upstash.com/
 - Regex Generator - https://regex-generator.olafneumann.org/
+
+# Create Images, Videos and PDF using API
+- https://doczilla.app
+- https://doppio.sh/
+- https://pdfendpoint.com/
+- https://templated.io/
+- https://www.bannerbear.com/
+- https://www.abyssale.com/
+- https://www.switchboard.ai/
+- https://placid.app/
+- https://duply.co/
+- https://creatomate.com/
+- https://customerscanvas.com/
+- https://apitemplate.io/
 
 ### OSS and Tools
 - Create AI Chatbot - ttps://www.typebot.io
