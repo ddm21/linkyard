@@ -12,4 +12,5 @@
 - Color Contrast Checker - https://chrome.google.com/webstore/detail/colour-contrast-checker/nmmjeclfkgjdomacpcflgdkgpphpmnfe
 - Designers Tool - https://chrome.google.com/webstore/detail/designer-tools/jiiidpmjdakhbgkbdchmhmnfbdebfnhp/related
 - JSON Formatter - https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en
-- Mesurement - https://chrome.google.com/webstore/detail/measuremate/fcbffocoaopnenhgbchlchgndohggdei 
+- Mesurement - https://chrome.google.com/webstore/detail/measuremate/fcbffocoaopnenhgbchlchgndohggdei
+- Technology Finder - https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg
