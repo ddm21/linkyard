@@ -17,7 +17,7 @@
 - Windows Macro - https://tinytask.net/
 - Canva Alternative with AI - https://www.creatopy.com/
 - Sumarise what you talk - https://audiopen.ai/ - https://audiogest.app/
-- Get International Payments in India - https://www.skydo.com/
+- Get International Payments in India - https://www.skydo.com/ and https://www.salt.pe/
 - 
 
 ### Crack Sites
