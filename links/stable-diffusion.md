@@ -7,6 +7,9 @@
 - All in one AI Tools installer - https://pinokio.computer/
 - Tryout LLMs - https://chat.tune.app/
 - Text to Song - https://suno.com/
+- https://fal.ai/
+- https://www.segmind.com/
+- https://runwayml.com/
 
 ### Get Models and Prompt
 - https://prompthero.com/
